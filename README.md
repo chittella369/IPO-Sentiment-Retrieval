@@ -2,8 +2,9 @@
 
 This project performs information retrieval, custom document ranking, and unsupervised sentiment analysis on news results gathered for Initial Public Offering (IPO) companies. It ranks news results using different search approaches and estimates investor sentiment using vector-space distance calculations against the Loughran-McDonald (LM) financial sentiment lexicon.
 
-A domain specific LM Dictionary (Loughran-McDonald dictionary) which is a specialized sentiment word list created for finance and economics is used. 
+A domain specific LM Dictionary (Loughran-McDonald dictionary) which is a specialized sentiment word list created for finance and economics is used.
 Unlike standard dictionaries like Merriam-Webster, it reclassifies common business terms (like liability or tax) that normal tools wrongly label as negative, helping analysts accurately score corporate filings and news
+
 ---
 
 ## 📂 Project Structure & Notebooks
