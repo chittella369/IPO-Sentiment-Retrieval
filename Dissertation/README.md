@@ -2,6 +2,9 @@
 
 This project performs information retrieval, custom document ranking, and unsupervised sentiment analysis on news results gathered for Initial Public Offering (IPO) companies. It ranks news results using different search approaches and estimates investor sentiment using vector-space distance calculations against the Loughran-McDonald (LM) financial sentiment lexicon.
 
+A domain specific LM Dictionary (Loughran-McDonald dictionary) which is a specialized sentiment word list created for finance and economics is used.
+Unlike standard dictionaries like Merriam-Webster, it reclassifies common business terms (like liability or tax) that normal tools wrongly label as negative, helping analysts accurately score corporate filings and news
+
 ---
 
 ## 📂 Project Structure & Notebooks
@@ -20,9 +23,6 @@ This notebook implements **Unsupervised Machine Learning** for sentiment classif
 * **Preprocessing:** Tokenizes text, filters stopwords, and writes out the processed vocabulary.
 * **Lexical Sentiment Dictionary Mapping:** Integrates dictionaries (pysentiment2, LM, HIV4) to calculate basic polarity.
 * **TF-IDF Sentiment Vector Distance Analysis:** Vectorizes document snippets and sentiment lexicons into a shared TF-IDF space and derives sentiment by measuring distance to positive vs. negative semantic centroids.
-
-### 3. [Functions.ipynb](file:///Users/aditya/workspace/Dissertation/Functions.ipynb)
-A helper utility notebook defining custom tokenizer classes, scoring wrappers, and runtime compatibility dictionary initializers.
 
 ---
 
