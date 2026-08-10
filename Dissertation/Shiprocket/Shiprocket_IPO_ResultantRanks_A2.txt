@@ -1,0 +1,66 @@
+new_rank	docid	title_snippet
+1	G11	shiprocket ltd ipo
+2	G26	indian logistics firm shiprocket targets ipo
+3	G19	ipobound shiprocket loss widened to cr
+4	G42	shiprocket ipo to open on august
+5	G29	shiprocket ipo gmp price allotment profit estimate
+6	G14	shiprocket targets crore valuation in trimmed ipo
+7	G28	shiprocket sets price band for cr ipo
+8	G3	shiprocket ipo gmp grey market premium today
+9	G31	will shiprocket pass ipo test with flying colours
+10	G47	shiprocket trims ipo size googles ai leadership shakeup
+11	G45	shiprocket ipo backbone of india s ecommerce infrastructure
+12	G39	shiprocket ipo price band set rs opens aug
+13	G49	shiprocket eyes ipo valuation below last funding round
+14	G27	shiprocket cuts ipo size by to rs cr
+15	G46	shiprocket ipo ceo cfo on growth strategy ecommerce ipo plans
+16	G23	shiprocket ipo likely this month at cr valuation report
+17	G22	shiprockets ipo to open aug price band fixed at
+18	G24	temasekbacked shiprocket targets mln valuation in trimmed india ipo
+19	G43	temasekbacked shiprocket targets million valuation in trimmed india ipo
+20	G9	lightrock moore face losses as ipobound shiprocket sheds unicorn tag
+21	G41	shiprocket trims ipo by to rs crore issue opens august
+22	G34	shiprocket fixes ipo price band at aims to raise crore
+23	G48	shiprocket ipo opens on august with price band and issue
+24	G55	shiprocket ipo to open august with price band per share
+25	G40	shiprocket ipo announced crore issue what you need to know
+26	G4	shiprocket s new businesses grow as logistics firm eyes ipo
+27	G58	shiprocket cuts ipo size by to rs crore issue opens august
+28	G35	ahead of ipo shiprocket looks beyond parcel delivery to merchant software
+29	G51	shiprocket limited ipo announced crore issue what you need to know
+30	G25	indias shiprocket sets price band of rupees per share for ipo
+31	G61	shiprocket likely to launch ipo within two weeks at crore valuation
+32	G17	ahead of ipo shiprocket looks beyond parcel delivery to merchant software
+33	G12	shiprocket sets ipo price band at issue to open on aug
+34	G60	shiprocket eyes august ipo at measured valuation after slashing losses by
+35	G59	shiprocket sets ipo price band at issue to open on aug
+36	G13	shiprocket ipo why this crore issue is different from recent startup listings
+37	G56	shiprocket ipo opens at should investors subscribe or wait for better clarity
+38	G53	shiprockets rs crore ipo rewards early backers dents returns for latestage investors
+39	G33	shiprocket rs ipo to hit dalal street on august cuts offer size
+40	G2	upcoming ipos dhoot transmission to shiprocket mainboard issues to open next week
+41	G50	shiprocket ipo to open on august price band fixed at per share
+42	G21	shiprocket to launch ipo in weeks at a valuation of rs crore
+43	G30	shiprockets rs crore ipo opens august price band ofs and key details
+44	G20	shiprocket sets ipo price band at public issue to open on august
+45	G18	shiprocket ipo size cut to rs crore price band set at rs
+46	G7	juniper green shiprocket ipos buy hold or sell expert view for investors
+47	G1	shiprocket ipo early investors set for up to returns latestage backers face losses
+48	G38	shiprocket ipo decoded smaller issue bumper exits key risks and the road ahead
+49	G52	shiprocket sets ipo price band at rs rs cr issue to open august
+50	G62	shiprocket ipo price band fixed at rs rs crore issue to open on august
+51	G44	shiprocket ipo opens on august check price band lot size other key issue details
+52	G15	shiprocket ipo price band fixed at per share heres date size other key details
+53	G10	shiprocket cuts ipo size lowers valuation expectations as it readies for rs public issue
+54	G6	shiprocket ipo who is cashing in where cr will go and what could go wrong
+55	G5	ipo gmps dhoot transmission molbio diagnostics shiprocket behari lal engg to milky mist what grey market signals
+56	G36	shiprocket ipo to open on aug price band fixed at rs per share valued company at rs
+57	G57	shiprocket to launch ipo on august cuts issue size by it is backed by temasek and eternal inshorts
+58	G63	shiprocket to launch ipo in next weeks at lower valuation report it received a nod from sebi in november inshorts
+59	B5	ipo rush dhoot milky mist shiprocket lead mainboard issues smes listings check price band dates gmp dhoot transmission milky mist molbio diagnostics shiprocket and behari lal engineering among mainboard ipos along with
+60	G8	shiprocket ltd share price fundamentals ratios
+61	B8	shiprocket crosses rs cr revenue in loss rises to rs cr logistics and ecommerce enablement platform shiprocket crossed the rs crore revenue mark in with operating
+62	G16	shiprocket s rs public issue cresa s creative fix for sanitary pad disposal
+63	G37	grapevine nse jio shiprocket cloudnine ifc in news
+64	G32	upcoming ipos next week five mainboard four sme issues to open
+65	G54	milky mist cuts public offer size after temasek deal ipo launch next week
