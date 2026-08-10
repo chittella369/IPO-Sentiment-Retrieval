@@ -40,12 +40,18 @@ pip install pandas numpy matplotlib scikit-learn openpyxl nltk pysentiment2
 Place the Loughran-McDonald sentiment list spreadsheet (`LoughranMcDonald_SentimentWordLists_2018.xlsx`) in the same directory as the notebooks.
 
 ### 3. Run the Information Retrieval Notebook
-1. Open and run [IPO_InformationRetrieval-v0.1.ipynb](file:///Users/aditya/workspace/Dissertation/IPO_InformationRetrieval-v0.1.ipynb) first.
-2. Enter the IPO company name when prompted (e.g., `Dhoot Transmission Ltd`, `Technocraft Ventures`, `India Pesticides`, or `Shiprocket`).
+1. Open a terminal and navigate to the `MetaSearchEngine` folder (where the assignment code files are located).
+2. Start the Jupyter Notebook interface:
+   ```bash
+   jupyter notebook --ip=127.0.0.1
+   
+   ```
+1. Open and run **`[IPO_InformationRetrieval-v0.1.ipynb]`**(file:///Users/aditya/workspace/Dissertation/IPO_InformationRetrieval-v0.1.ipynb) first.
+2. Enter the IPO company name when prompted (e.g., `Dhoot Transmission Ltd`, `Technocraft Ventures`, or `Shiprocket`).
 3. Running this notebook creates the processed text outputs (e.g., `<Company>_ResultantRanks_A1.txt`, `<Company>_ResultantRanks_A2.txt`, and `<Company>_RankedDocuments.csv`) inside a subdirectory named after the company.
 
 ### 4. Run the Sentiment ML Notebook
-1. Open and run [IPO_ML_Model-Unsupervised-Final-v1.0.ipynb](file:///Users/aditya/workspace/Dissertation/IPO_ML_Model-Unsupervised-Final-v1.0.ipynb).
+1. Open and run **`[IPO_ML_Model-Unsupervised-Final-v1.0.ipynb]`**(file:///Users/aditya/workspace/Dissertation/IPO_ML_Model-Unsupervised-Final-v1.0.ipynb).
 2. This notebook loads the generated text outputs from the IR step and evaluates overall investor sentiment using vector distance measures.
 
 ---
