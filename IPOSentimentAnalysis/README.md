@@ -5,6 +5,8 @@ This project performs information retrieval, custom document ranking, and unsupe
 A domain specific LM Dictionary (Loughran-McDonald dictionary) which is a specialized sentiment word list created for finance and economics is used.
 Unlike standard dictionaries like Merriam-Webster, it reclassifies common business terms (like liability or tax) that normal tools wrongly label as negative, helping analysts accurately score corporate filings and news
 
+# Note : Do not use this model to make your investment decision. This is only to be used for knowledge purpose and shouldn't be used to trade/invest in any kind of securities what so ever.
+
 ---
 
 ## 📂 Project Structure & Notebooks
